@@ -18,8 +18,6 @@ Manu M - Aspiring Full-Stack Developer with a knack for problem-solving and buil
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manu-Madhu&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manu-Madhu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
